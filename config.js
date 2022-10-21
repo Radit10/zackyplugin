@@ -3,26 +3,26 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6285236483504','62852364835043']  // isi jika perlu
-global.mods = ['6285236483504','62852364835043']   // isi jika perlu
-global.prems = ['6285236483504','62852364835043']  // isi jika perlu
+global.owner = ["6283839350104","6285236483504","62852364835040","62852364835040","62852364835042","62852364835045"]  // isi jika perlu
+global.mods = ["6283839350104","6285236483504","62852364835040","62852364835040","62852364835042","62852364835045"]   // isi jika perlu
+global.prems = ["6283839350104","6285236483504","62852364835040","62852364835040","62852364835042","62852364835045"]  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = 'Mursid S' // isi nama kalian bebas
+global.nameowner = 'ᴹᴿ᭄ ᴅᴏɴᴢ ×፝֟͜×' // isi nama kalian bebas
 global.numberowner = '62852364835043' // isi nomor kalian dengan awalan seperti di contoh 
 global.dana = '6285236483504' // isi dengan nomor dana yg kamu punya 
 global.pulsa = '6285236483504' // isi dengan nomor pulsa hp kalian
 global.gopay = '6285236483504'
 
 //Name Bot & Grouplink//
-global.namebot = 'мυʀѕι∂ вσт-χмℓ'
-global.gc = 'https://chat.whatsapp.com/FhSBFvhtzfN5hIVe1GXAfj'
-global.web = 'https://instagram.com/mursid.st' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'ᏃᎯᏨᏦᎽ-Mdོ'
+global.gc = 'https://chat.whatsapp.com/HKDyOsfEEDCKE4z8GVDahd'
+global.web = 'https://youtu.be/FoksUIwNYIM' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'мυʀѕι∂ вσт-χмℓ'
+global.wm = 'ᴢᴀᴄᴋʏ вσт-χмℓ'
 global.watermark = wm
 global.wm2 = 'мυʀѕι∂ вσт-χмℓ'
 global.wm3 = 'мυʀѕι∂ вσт-χмℓ'
